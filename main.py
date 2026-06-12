@@ -1,2 +1,3 @@
 print("quie gana keiko o jp")
-print(" que recopape")
+print(" porgramacion")
+print ("matematica discreta")
